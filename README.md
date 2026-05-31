@@ -1,4 +1,4 @@
-# 🚴 AdventureWorks Bike Shop: Global Sales Performance Analytics
+# 🚴 AdventureWorks Bike Shop: Global Sales Performance Analysis
 
 ---
 
